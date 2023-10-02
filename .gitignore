@@ -1,0 +1,6 @@
+# Godot 4+ specific ignores
+.godot/
+*.import
+.mono/
+*.translation
+export_presets.cfg
